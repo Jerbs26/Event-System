@@ -16,7 +16,7 @@ A full-stack PHP event management system with user authentication, event registr
 
 ## Database
 
-Four tables: `users`, `events`, `event_registrations`, `password_resets`, `OTP_verification`
+Five tables: `users`, `events`, `event_registrations`, `password_resets`, `OTP_verification`
 
 ---
 
