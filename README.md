@@ -28,4 +28,4 @@ Five tables: `users`, `events`, `event_registrations`, `password_resets`, `OTP_v
 
 ## Author
 
-The Project built with PHP, MySQL, and vanilla CSS/JS.
+The Project built with PHP, MySQL, and HTML/CSS/JS.
